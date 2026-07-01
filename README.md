@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Machine Learning-EE4C2C?style=for-the-badge&logo=ML&logoColor=white" alt="ML"/>
   <img src="https://img.shields.io/badge/MATLAB-00FFFF?style=for-the-badge&logo=MATLAB&logoColor=black" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-    <img src="https://img.shields.io/badge/Collab-F37626?style=for-the-badge&logo=googlecollab&logoColor=white" alt="Collab"/>
+    <img src="https://img.shields.io/badge/Collab-F37626?style=for-the-badge&logo=google&logoColor=white" alt="Collab"/>
 </p>
 
 <p align="center">
