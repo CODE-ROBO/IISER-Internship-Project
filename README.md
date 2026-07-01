@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/Institution-IISER_Pune-003366?style=for-the-badge" alt="IISER Pune"/>
+  <img src="https://img.shields.io/badge/IISER_Pune-003366?style=for-the-badge" alt="IISER Pune"/>
   <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV"/>
