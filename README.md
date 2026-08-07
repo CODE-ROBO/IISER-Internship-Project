@@ -15,7 +15,6 @@
   <img src="https://via.placeholder.com/800x400/0a0a0a/00FFFF?text=[INSERT+ML+IMAGING+VISUALIZATION+OR+SEGMENTATION+GIF+HERE]" alt="ML Imaging Render" width="100%"/>
 </p>
 
----
 
 <details open>
   <summary><b>📑 DIRECTORY TERMINAL (TABLE OF CONTENTS)</b></summary>
