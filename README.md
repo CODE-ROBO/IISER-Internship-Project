@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/MATLAB-00FFFF?style=for-the-badge&logo=MATLAB&logoColor=black" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
     <img src="https://img.shields.io/badge/Collab-F37626?style=for-the-badge&logo=google&logoColor=white" alt="Collab"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400/0a0a0a/00FFFF?text=[INSERT+ML+IMAGING+VISUALIZATION+OR+SEGMENTATION+GIF+HERE]" alt="ML Imaging Render" width="100%"/>
